@@ -1,0 +1,6 @@
+tensorflow-cpu
+pandas
+scikit-learn
+matplotlib
+seaborn
+jupyterlab
